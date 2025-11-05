@@ -10,6 +10,8 @@ The system consists of three main functional modules:
 
 Developed with **Android Studio** and implemented with **multithreading and voice integration**, this system delivers an intelligent and interactive yoga training experience — combining real-time analysis, instant feedback, and comprehensive performance tracking.
 
+![系統主介面](assets/interface.png)
+
 ## 🛠️ Tech Stack  
 &bull; Android Studio  
 &bull; Mediapipe  
