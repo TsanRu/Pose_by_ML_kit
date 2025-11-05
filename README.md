@@ -4,9 +4,9 @@ It provides customizable training lists, allowing users to practice multiple yog
 After each training session, users can review detailed evaluation data through the app, including joint angle analysis, accuracy scores, and improvement suggestions. This enables users to effectively enhance their posture performance even without direct guidance from a yoga instructor.
 
 The system consists of three main functional modules:
-  &nbsp; Pose List: Displays 10 fundamental yoga poses with descriptions, individual detection, and analysis features.
-  &nbsp; Training List: Provides preset or user-defined training routines, supporting batch pose training and detailed performance feedback.
-  &nbsp; Settings: Includes history record management, camera switching, user guide, and feedback submission functions.
+  &bull; Pose List: Displays 10 fundamental yoga poses with descriptions, individual detection, and analysis features.
+  &bull; Training List: Provides preset or user-defined training routines, supporting batch pose training and detailed performance feedback.
+  &bull; Settings: Includes history record management, camera switching, user guide, and feedback submission functions.
 
 Developed with Android Studio and implemented with multithreading and voice integration, this system delivers an intelligent and interactive yoga training experience — combining real-time analysis, instant feedback, and comprehensive performance tracking.
 
