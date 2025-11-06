@@ -11,12 +11,21 @@ The system consists of three main functional modules:
 Developed with **Android Studio** and implemented with **multithreading and voice integration**, this system delivers an intelligent and interactive yoga training experience — combining real-time analysis, instant feedback, and comprehensive performance tracking.
 
 
-
 ## 🛠️ Tech Stack  
 &bull; Android Studio  
 &bull; Mediapipe  
 &bull; SQLite  
 &bull; MPAndroidChart  
+
+## 🌟 Key Technical Contributions  
+1. My primary contributions and technical challenges focused on:  
+AI and Angle Calculation Model Implementation: Responsible for integrating the MediaPipe framework and designing the joint angle calculation formulas used to quantify posture deviation for assessment accuracy.
+
+2. High-Efficiency Mobile Deployment: Used Android Studio to develop a user-friendly interface and optimized multithreading mechanisms to ensure real-time performance and responsiveness of AI computation and voice feedback on the mobile device.
+
+3. System Integration and Feature Buildout: Led the development of key system features including the customized training list, historical records, detailed assessment reports (as shown in Figure 1.2), and real-time voice notification.
+
+4. Academic Validation: Project outcomes were compiled and successfully submitted to the CVGIP Conference, validating the research's academic merit.
 
 ## 🎥 Demonstration  
 <img src="assets/pretraning_interface.png" alt="Training Interface Screenshot" width="700">
