@@ -19,5 +19,8 @@ Developed with **Android Studio** and implemented with **multithreading and voic
 &bull; MPAndroidChart  
 
 ## 🎥 Demonstration  
-<div align="center"><img src="assets/pretraning_interface.png" alt="Training Interface Screenshot" width="750"></div>
+<div align="center"><img src="assets/pretraning_interface.png" alt="Training Interface Screenshot" width="700"></div>
 <i>Figure 1. This interface provides detailed explanations of each yoga pose, offers adjustment suggestions, and allows users to select difficulty levels.</i>
+  
+<img src="assets/training_result.png" width="700">
+<i>Figure 2. Pose Accuracy Line Chart and Training Result Report.</i>
