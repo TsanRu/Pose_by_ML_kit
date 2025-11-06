@@ -45,7 +45,7 @@ This project's contributions and technical challenges focused on:
   
 <img src="assets/training_list_function_1.png" width="700">   
 <img src="assets/training_list_function_2.png" width="700">   
-<i>Figure 4.1, 4.2 These figures show that users can:  </i>
+<i>Figure 4.1, 4.2. These figures show that users can:  </i>
   
 <i>- Add or remove yoga poses freely</i>  
 <i>- Adjust training duration and difficulty for each pose</i>  
