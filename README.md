@@ -24,8 +24,12 @@ Developed with **Android Studio** and implemented with **multithreading and voic
 <i>Figure 1. This interface provides detailed explanations of each yoga pose, offers adjustment suggestions, and allows users to select difficulty levels.</i>
   
 <img src="assets/training_result.png" width="700">
-### 📝 Custom Training List Interface
 <i>Figure 2. Pose Accuracy Line Chart and Training Result Report.</i>
+<i>This screen displays detailed pose evaluation data after completing a training session, including:
+- Pose information and standard reference
+- Overall pose accuracy line chart
+- Performance summary and improvement recommendations</i>
+
   
 <img src="assets/training_list_interface.png" width="700">
 <i>Figure 3. This interface allows users to create and manage personalized yoga training routines by selecting multiple poses based on their goals.</i>
