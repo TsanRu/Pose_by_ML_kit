@@ -30,10 +30,10 @@ Developed with **Android Studio** and implemented with **multithreading and voic
 <i>- Overall pose accuracy line chart</i>  
 <i>- Performance summary and improvement recommendations</i>  
   
-<img src="assets/training_list_interface.png" width="700">
+<img src="assets/training_list_interface.png" width="700">  
 <i>Figure 3. This interface allows users to create and manage personalized yoga training routines by selecting multiple poses based on their goals.</i>  
   
-<img src="assets/training_list_function.png" width="700">  
+<img src="assets/training_list_function.png" width="700">   
 <i>Figure 4. This screen allows users to:  </i>
   
 <i>- Add or remove yoga poses freely</i>  
