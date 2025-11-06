@@ -18,8 +18,8 @@ Developed with **Android Studio** and implemented with **multithreading and voic
 &bull; MPAndroidChart  
 
 ## 🌟 Key Technical Contributions  
-1. My primary contributions and technical challenges focused on:  
-AI and Angle Calculation Model Implementation: Responsible for integrating the MediaPipe framework and designing the joint angle calculation formulas used to quantify posture deviation for assessment accuracy.
+My primary contributions and technical challenges focused on:  
+1. AI and Angle Calculation Model Implementation: Responsible for integrating the MediaPipe framework and designing the joint angle calculation formulas used to quantify posture deviation for assessment accuracy.
 
 2. High-Efficiency Mobile Deployment: Used Android Studio to develop a user-friendly interface and optimized multithreading mechanisms to ensure real-time performance and responsiveness of AI computation and voice feedback on the mobile device.
 
