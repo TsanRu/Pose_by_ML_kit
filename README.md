@@ -20,3 +20,4 @@ Developed with **Android Studio** and implemented with **multithreading and voic
 
 ## 🎥 Demonstration  
 ![系統主介面](assets/interface.png)
+*This interface provides detailed explanations of each yoga pose, offers adjustment suggestions, and allows users to select difficulty levels.*
