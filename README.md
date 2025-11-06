@@ -19,13 +19,13 @@ Developed with **Android Studio** and implemented with **multithreading and voic
 
 ## 🌟 Key Technical Contributions  
 This project's contributions and technical challenges focused on:  
-1. AI and Angle Calculation Model Implementation: Responsible for integrating the MediaPipe framework and designing the joint angle calculation formulas used to quantify posture deviation for assessment accuracy.
+**1. AI and Angle Calculation Model Implementation:** Responsible for integrating the MediaPipe framework and designing the joint angle calculation formulas used to quantify posture deviation for assessment accuracy.
 
-2. High-Efficiency Mobile Deployment: Used Android Studio to develop a user-friendly interface and optimized multithreading mechanisms to ensure real-time performance and responsiveness of AI computation and voice feedback on the mobile device.
+**2. High-Efficiency Mobile Deployment:** Used Android Studio to develop a user-friendly interface and optimized multithreading mechanisms to ensure real-time performance and responsiveness of AI computation and voice feedback on the mobile device.
 
-3. System Integration and Feature Buildout: Led the development of key system features including the customized training list, historical records, detailed assessment reports (as shown in Figure 1.2), and real-time voice notification.
+**3. System Integration and Feature Buildout:** Led the development of key system features including the customized training list, historical records, detailed assessment reports (as shown in Figure 1.2), and real-time voice notification.
 
-4. Academic Validation: Project outcomes were compiled and successfully submitted to the CVGIP Conference, validating the research's academic merit.
+**4. Academic Validation:** Project outcomes were compiled and successfully submitted to the CVGIP Conference, validating the research's academic merit.
 
 ## 🎥 Demonstration  
 <img src="assets/pretraning_interface.png" alt="Training Interface Screenshot" width="700">
