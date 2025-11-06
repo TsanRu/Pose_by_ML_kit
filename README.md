@@ -31,12 +31,19 @@ Developed with **Android Studio** and implemented with **multithreading and voic
 <i>- Performance summary and improvement recommendations</i>  
   
 <img src="assets/training_list_interface.png" width="700">
-<i>Figure 3. This interface allows users to create and manage personalized yoga training routines by selecting multiple poses based on their goals.</i>
+<i>Figure 3. This interface allows users to create and manage personalized yoga training routines by selecting multiple poses based on their goals.</i>  
   
-<img src="assets/training_list_function.png" width="700"> 
+<img src="assets/training_list_function.png" width="700">  
 <i>Figure 4. This screen allows users to:  </i>
   
 <i>- Add or remove yoga poses freely</i>  
 <i>- Adjust training duration and difficulty for each pose</i>  
 <i>- Use system-provided preset training routines based on targeted muscle groups</i>  
-
+  
+<img src="assets/training_list_result.png" width="700">  
+<i>Figure 5. This screen displays the overall performance summary of a completed training list, including:</i>  
+  
+<i>- Training list name</i>  
+<i>- Total training duration and number of poses</i>  
+<i>- Training date</i>  
+<i>- Individual pose performance, which can be viewed in detail</i>  
